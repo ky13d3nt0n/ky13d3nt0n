@@ -12,7 +12,7 @@ Experienced Web Developer with a demonstrated history of working in the informat
 
 ### Stats
 
-![ky13d3nt0n, Kyle Denton GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ky13d3nt0n&show_icons=true&theme=nord&count_private=true&hide=stars) &nbsp; [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ky13d3nt0n&hide=shell&layout=compact)](https://github.com/ky13d3nt0n/github-readme-stats)
+![ky13d3nt0n, Kyle Denton GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ky13d3nt0n&show_icons=true&theme=nord&count_private=true&hide=stars) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ky13d3nt0n&hide=shell&layout=compact)](https://github.com/ky13d3nt0n/github-readme-stats)
 
 &nbsp;
 
