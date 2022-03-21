@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 [![Kyle Denton LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-denton-57071871/)
 
-![ky13d3nt0n, Kyle Denton GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ky13d3nt0n&show_icons=true&theme=radical)
+![ky13d3nt0n, Kyle Denton GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ky13d3nt0n&show_icons=true&theme=nord&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky13d3nt0n)](https://github.com/ky13d3nt0n/github-readme-stats)
