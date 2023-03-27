@@ -397,6 +397,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ky13d3nt0n&layout=compact&theme=nord" alt="Readme Stats" />
 </div>
 
+<br/>
+
 <div align="center">
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=ky13d3nt0n&theme=onedark&row=2&rank=SECRET,S,SS,A,B,C" alt="ky13d3nt0n" />
