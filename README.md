@@ -398,6 +398,7 @@
 </div>
 
 &nbsp;
+---
 
 <div align="center">
   <!-- Trophies -->
