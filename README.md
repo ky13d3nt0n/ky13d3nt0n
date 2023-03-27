@@ -397,7 +397,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ky13d3nt0n&layout=compact&theme=nord" alt="Readme Stats" />
 </div>
 
-<br/>
+&nbsp;
 
 <div align="center">
   <!-- Trophies -->
