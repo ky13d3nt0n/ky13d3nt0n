@@ -399,5 +399,5 @@
 
 <div align="center">
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ky13d3nt0n&theme=onedark&row=2&column=3&rank=SECRET,S,SS,A,B,C" alt="ky13d3nt0n" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ky13d3nt0n&theme=onedark&row=2&rank=SECRET,S,SS,A,B,C" alt="ky13d3nt0n" />
 </div>
