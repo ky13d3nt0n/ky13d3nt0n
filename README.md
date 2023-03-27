@@ -1,9 +1,6 @@
 <!--
 **ky13d3nt0n/ky13d3nt0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
-
-
 <!-- Profile Views -->
 <div>
   <a align="left" href="https://linkedin.com/in/kyle-denton-57071871" target="blank">
@@ -99,22 +96,6 @@
         <br/>
         Babel
       </td>
-      <!-- Express -->
-      <td width="96">
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-        </a>
-        <br/>
-        Express
-      </td>
-      <!-- SQLite -->
-      <td width="96">
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-        </a>
-        <br/>
-        SQLite
-      </td>
     </tr>
     <tr>
       <!-- NodeJS -->
@@ -140,14 +121,6 @@
         </a>
         <br/>
         CircleCI
-      </td>
-      <!-- Redux -->
-      <td width="96">
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-        </a>
-        <br/>
-        Redux
       </td>
       <!-- Cypress -->
       <td>
@@ -197,14 +170,6 @@
         <br/>
         Firebase
       </td>
-      <!-- Kubernetes -->
-      <td width="96">
-        <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-        </a>
-        <br/>
-        Kubernetes
-      </td>
     </tr>
     <tr>
       <!-- Jest -->
@@ -239,14 +204,6 @@
         <br/>
         Git
       </td>
-      <!-- IFTTT -->
-      <td width="96">
-        <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
-        </a>
-        <br/>
-        IFTTT
-      </td>
       <!-- Bootstrap -->
       <td>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -278,14 +235,6 @@
         </a>
         <br/>
         Heroku
-      </td>
-      <!-- MongoDB -->
-      <td width="96">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-        </a>
-        <br/>
-        MongoDB
       </td>
       <!-- Illustrator -->
       <td width="96">
@@ -369,6 +318,24 @@
         <br/>
         Sketch
       </td>
+    </tr>
+    <tr>
+      <!-- Redux -->
+      <td width="96">
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+        </a>
+        <br/>
+        Redux
+      </td>
+      <!-- Express -->
+      <td width="96">
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+        </a>
+        <br/>
+        Express
+      </td>
       <!-- Postman -->
       <td width="96">
         <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -377,6 +344,14 @@
         <br/>
         Postman
       </td>
+      <!-- SQLite -->
+      <td width="96">
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+        </a>
+        <br/>
+        SQLite
+      </td>
       <!-- AWS -->
       <td width="96">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -384,6 +359,30 @@
         </a>
         <br/>
         AWS
+      </td>
+      <!-- IFTTT -->
+      <td width="96">
+        <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
+        </a>
+        <br/>
+        IFTTT
+      </td>
+      <!-- Kubernetes -->
+      <td width="96">
+        <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+        </a>
+        <br/>
+        Kubernetes
+      </td>
+      <!-- MongoDB -->
+      <td width="96">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        </a>
+        <br/>
+        MongoDB
       </td>
     </tr>
   </tbody>
